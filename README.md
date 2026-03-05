@@ -34,7 +34,7 @@ AI Mass Applies compound the problem and saturate recruiters with low fit candid
 ## Templated cover letters and emails
 Cover letters suck to write from scratch every time.
 A templated cover letter where you can plug in a few details tailored to the position wins. Keep it short and full of value. 
-Email templatescan also help with communication with recruiters and hiring managers.
+Email templates can also help with communication with recruiters and hiring managers.
 
 ## Where you apply can matter
 Apply directly on company websites as much as possible.
