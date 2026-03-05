@@ -1,0 +1,22 @@
+# Job Search Tips
+
+- Get an ATS compatible resume template. Google probably has some.  
+I have used Resume Worded, which is a pretty cool resume writer.
+- Consider AI a "with me" tool for resumes, not a "for me" tool.  The worst thing you can do is submit an AI generated resume that made up half your experience.
+
+- Narrow down your search to specific roles and customize your resume to the role.  If you're going for multiple roles, write a resume for each.
+
+- Set up job searches for the roles you want and include "past 24 hours" + check this out daily.  I tried to stay away from anything posted 2 weeks or older but also received invitations to interview within 24 hours from 2 week + postings.
+
+- keep track of the jobs you apply for and what stage each is in.  I've got a pretty solid Google Sheet if you want a copy of it.
+
+- it's a numbers game.  "Application to interview" can help you determine how effective your efforts are. P.s. by tracking in a spreadsheet, you can automate the calculation.  
+
+- Referrals and showing immediate value will get interviews.  AI Mass Applies compound the problem and saturate recruiters with low fit candidates. 
+
+- Have a templated cover letter where you can plug in a few details or make some small changes to tailor to the position.  If you know the hiring manager's name or the recruiter's name, address them in your cover letter.  
+- Madeline Mann has an excellent framework: https://www.youtube.com/watch?v=4PK-qQSknxk
+
+- apply directly on company websites as much as possible. Don't discount "EasyApply" on LinkedIn but don't expect results from just that approach.  
+
+- Recruiters are not created equally.  I found a great one at a staffing firm that specializes in more IT/ Technical roles. Not sure if this would be helpful for you but glad to make an intro if you want.
