@@ -25,8 +25,8 @@
     The job search is no different from sales prospecting.  The main difference: You need one job, not all the jobs.  
     Tracking your responses and conversions will give you two simple data points to inform when it is time to make changes to your approach.
     There is no hard and fast target, but if you have applied to 15-20 positions and have not heard back or are getting rejects, it is likely a resume problem.
-    The best part about using a spreadsheet: you can automate your analysis, and I've included the one I have used and refined over the years.
-
+    The best part about using a spreadsheet: you can automate your analysis.
+    
 ## Referrals and showing your immediate value will get interviews.  
 
     AI Mass Applies compound the problem and saturate recruiters with low fit candidates. Don't be part of the problem. 
@@ -64,7 +64,7 @@ These simply resonated and helped me in my search.
 Brian Creely (A Life After Layoff) encourages you to become the CEO of your career: 
 [7 Job Search Strategies to find a job FAST!](https://youtu.be/PnxBkOqThjI?si=UwKFvo7MF-0wfXXj)
 
-Madeline Mann (Self Made Milennial) has an excellent cover letter framework and great content for itnerview questions 
+Madeline Mann (Self Made Milennial) has an excellent cover letter framework and great content for interview questions 
 [This Cover Letter Formula Actually Gets Interviews](https://youtu.be/4PK-qQSknxk?si=1zV50Lpg35Nc2qiG)
 
 Erin McGoff (Advice With Erin) has real career and life advice, and her book "The Secret Language of Work" is about to drop as this file is being written.
