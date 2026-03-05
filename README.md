@@ -26,7 +26,7 @@
     Tracking your responses and conversions will give you two simple data points to inform when it is time to make changes to your approach.
     There is no hard and fast target, but if you have applied to 15-20 positions and have not heard back or are getting rejects, it is likely a resume problem.
     The best part about using a spreadsheet: you can automate your analysis.
-    
+
 ## Referrals and showing your immediate value will get interviews.  
 
     AI Mass Applies compound the problem and saturate recruiters with low fit candidates. Don't be part of the problem. 
@@ -34,8 +34,7 @@
 ## Templated cover letters and emails
     Cover letters suck to write from scratch every time.
     A templated cover letter where you can plug in a few details tailored to the position wins. Keep it short and full of value. 
-    **MAKE SURE YOU TRIPLE CHECK COMPANY NAMES.** 
-    Having email templates available can also help with communication with recruiters and hiring managers.
+    Email templates can also help with communication with recruiters and hiring managers.
 
 ## Where you apply can matter
     Apply directly on company websites as much as possible.
