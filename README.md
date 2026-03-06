@@ -64,5 +64,8 @@ Erin McGoff (Advice With Erin) has real career and life advice, and her book "Th
 [How To (Actually) Get a New Job in 2026](https://youtu.be/w5S6vKgjeRY?si=XGiEQ2EoX2o2VV5a)
 
 Albert Bellamy (Major Data) is for the data nerds out there, although his strategies and advice could adapt to any role.
-This is a longer one, but must watch if you're in data or considering a pivot  
+
 [The Networking Strategy That Beats Job Boards!](https://www.youtube.com/watch?v=mGcrA9FET5Q)
+
+His book is a must read if you are considering a pivot into analytics:  
+[Data Analytics Career Playbook: How to Turn Your Existing Skill Set into an Analytics Career Today](https://www.amazon.com/Data-Analytics-Career-Playbook-Existing/dp/B0FX7SH87S)
