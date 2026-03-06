@@ -45,9 +45,12 @@ Applying through the company site usually means you are going straight into thei
 It's also a great way to learn a bit about the company before applying and maybe spot some red flags that were not in the post.
 
 ## Give yourself some grace
-Accepting that you did your best work and controlled what you could is not a reflection on your worth as a human.
-Some of the most admired business leaders found their calling AFTER leaving a role that no longer served them.  
+Accepting that you did your best work and controlled what you could is not a reflection of your worth.
+
+Some of the most admired business leaders found their calling AFTER leaving a role that no longer served them.
+
 Some of the most admired companies were started AFTER the founder was laid off from somewhere else.
+
 Doors close. Windows open. Change is the only constant.
 
 # Resources
@@ -61,8 +64,8 @@ Brian Creely (A Life After Layoff) encourages you to become the CEO of your care
 Madeline Mann (Self Made Milennial) has an excellent cover letter framework and great content for interview questions:  
 [This Cover Letter Formula Actually Gets Interviews](https://youtu.be/4PK-qQSknxk?si=1zV50Lpg35Nc2qiG)
 
-Erin McGoff (Advice With Erin, Author of [The Secret Language of Work](https://www.advicewitherin.com/book)) has real career and life advice, like
-[How To (Actually) Get a New Job in 2026](https://youtu.be/w5S6vKgjeRY?si=XGiEQ2EoX2o2VV5a)
+Erin McGoff (Advice With Erin, Author of [The Secret Language of Work](https://www.advicewitherin.com/book)) 
+Real career and life advice, like [How To (Actually) Get a New Job in 2026](https://youtu.be/w5S6vKgjeRY?si=XGiEQ2EoX2o2VV5a)
 
 Albert Bellamy (Major Data) is for the data nerds out there, although his strategies and advice could adapt to any role.
 
