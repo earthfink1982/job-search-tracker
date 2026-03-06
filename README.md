@@ -5,14 +5,15 @@ A ready to go job application tracker that has formulas already set up to track 
 ## Job Search Tips
 
 ### Get an ATS compatible resume template. Google Docs has some.  
-I have used [Resume Worded](https://resumeworded.com/), which is a pretty cool resume writer.
+I found [Resume Worded](https://resumeworded.com/) to be effective. You could also hire someone to write your resume for you, and make sure you find someone who knows your specific role or industry.
 
 ### Narrow your search to specific roles and customize your resume.  
-If you're going for multiple roles, write a resume for each.
+If you're going for multiple roles, write a resume for each. Be careful with super-customizing; It becomes difficult to test what works and what doesn't.  
+A/B Test and consider adding a simple naming convention or add something to the application tracker so you know which resume was used for which role. 
+
 
 ### Speed to Lead
-You will find the most success with applying to newly posted roles. 
-I tried to stay away from anything posted 2 weeks or older but also received invitations to interview within 24 hours from 2 week + postings.
+Prioritize roles posted within the last 24 hours. Older postings can yield results, the first 48 hours are critical to make the first pool of candidates. 
 Set up LinkedIn job searches for the roles you want and include "past 24 hours" + check this out daily.  
     
 ### Track your applications
@@ -60,7 +61,7 @@ Brian Creely (A Life After Layoff) encourages you to become the CEO of your care
 Madeline Mann (Self Made Milennial) has an excellent cover letter framework and great content for interview questions:  
 [This Cover Letter Formula Actually Gets Interviews](https://youtu.be/4PK-qQSknxk?si=1zV50Lpg35Nc2qiG)
 
-Erin McGoff (Advice With Erin) has real career and life advice, and her book "The Secret Language of Work" is about to drop as this is being written.  
+Erin McGoff (Advice With Erin, Author of [The Secret Language of Work](https://www.advicewitherin.com/book)) has real career and life advice
 [How To (Actually) Get a New Job in 2026](https://youtu.be/w5S6vKgjeRY?si=XGiEQ2EoX2o2VV5a)
 
 Albert Bellamy (Major Data) is for the data nerds out there, although his strategies and advice could adapt to any role.
