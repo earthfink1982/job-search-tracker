@@ -5,7 +5,7 @@ A ready to go job application tracker that has formulas already set up to track 
 ## Job Search Tips
 
 ### Get an ATS compatible resume template. Google Docs has some.  
-I have used Resume Worded, which is a pretty cool resume writer.
+I have used [Resume Worded](https://resumeworded.com/), which is a pretty cool resume writer.
 
 ### Narrow your search to specific roles and customize your resume.  
 If you're going for multiple roles, write a resume for each.
