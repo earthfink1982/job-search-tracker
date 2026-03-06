@@ -42,7 +42,8 @@ Email templates can also help with communication with recruiters and hiring mana
 Apply directly on company websites as much as possible.
 Recruiters and hiring managers may not consider LinkedIn as their record of truth for their candidate pipeline. 
 Applying through the company site usually means you are going straight into their ATS and record of truth. 
-It's also a great way to learn a bit about the company before applying and maybe spot some red flags that were not in the post.
+It's also a great way to learn a bit about the company before applying and maybe helps you decide when not to apply if you're on the fence.
+
 
 ## Give yourself some grace
 Accepting that you did your best work and controlled what you could is not a reflection of your worth.
