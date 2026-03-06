@@ -20,7 +20,7 @@ As your volume of applications increases, knowing the companies and roles you ha
 If you are truly a fit for multiple roles, decide which one is the best fit, and you can always tactfully ask about the other role once the conversation has started.
 
 #### A spreadsheet is best. 
-The goal of this tracker is to use it as little as possible.  I specialize in choosing the simplest tool for the job, and Excel gets the job done here.
+The goal of this tracker is to use it as little as possible, because that means you found your next role. I specialize in choosing the simplest tool for the job, and Excel gets the job done here.
 The Excel tracker I've provided has fake data to show how it works.  You could clear the fake data and start using it today without having to write any formulas.
 
 ### Analyze and pivot
