@@ -13,8 +13,7 @@ A/B Test and consider adding a simple naming convention or add something to the 
 
 
 ### Speed to Lead
-Prioritize roles posted within the last 24 hours. Older postings can yield results, the first 48 hours are critical to make the first pool of candidates. 
-Set up LinkedIn job searches for the roles you want and include "past 24 hours" + check this out daily.  
+Prioritize roles posted within the last 24 hours. While older postings can yield results, it's critical to apply within the first 48 hours to make the first pool of candidates. The recruiter's role is to find the right fit for the company and the position, not talk to everyone who applied.  Most recruiters are going to talk to a handful of candidates and set up interviews with those that they feel are the absolute best fit, then move on to their next highest priority. 
     
 ### Track your applications
 As your volume of applications increases, knowing the companies and roles you have applied for will prevent double applies or multiple roles at the same company.
