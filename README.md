@@ -22,7 +22,7 @@ If you are truly a fit for multiple roles, decide which one is the best fit, and
 
 #### A spreadsheet is best. 
 The goal of this tracker is to use it as little as possible, because that means you found your next role. I specialize in choosing the simplest tool for the job, and Excel gets the job done here.
-The Excel tracker I've provided has fake data to show how it works.  You could clear the fake data and start using it today without having to write any formulas.
+The Excel tracker I've provided has synthetic data to show how it works.  You could clear the Applications and start using it today without having to write any formulas.
 
 ### Analyze and pivot
 The job search is no different from sales prospecting.  The main difference: You need one job, not an ongoing pipeline.  
@@ -42,7 +42,7 @@ Email templates can also help with communication with recruiters and hiring mana
 Apply directly on company websites as much as possible.
 Recruiters and hiring managers may not consider LinkedIn as their record of truth for their candidate pipeline. 
 Applying through the company site usually means you are going straight into their ATS and record of truth. 
-Don't discount "Easy Apply" on LinkedIn but don't expect results from just that approach.  
+It's also a great way to learn a bit about the company before applying and maybe spot some red flags that were not in the post.
 
 ## Give yourself some grace
 Accepting that you did your best work and controlled what you could is not a reflection on your worth as a human.
